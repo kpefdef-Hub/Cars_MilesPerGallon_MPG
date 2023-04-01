@@ -1,0 +1,1113 @@
+﻿country,model,cyl,drive,fuel,vehClass,mpg
+Japan,ACURA ILX,4,2WD,Gasoline,small car,28
+Japan,ACURA MDX,6,4WD,Gasoline,small SUV,27
+Japan,ACURA MDX,6,2WD,Gasoline,small SUV,23
+Japan,ACURA MDX,6,4WD,Gasoline,small SUV,22
+Japan,ACURA MDX A-spec,6,4WD,Gasoline,small SUV,21
+Japan,ACURA NSX,6,4WD,Gasoline,small car,21
+Japan,ACURA RDX,4,2WD,Gasoline,small SUV,24
+Japan,ACURA RDX,4,4WD,Gasoline,small SUV,23
+Japan,ACURA RDX A-SPEC,4,2WD,Gasoline,small SUV,24
+Japan,ACURA RDX A-SPEC,4,4WD,Gasoline,small SUV,23
+Japan,ACURA RLX,6,4WD,Gasoline,midsize car,28
+Japan,ACURA RLX,6,2WD,Gasoline,midsize car,23
+Japan,ACURA TLX,4,2WD,Gasoline,small car,27
+Japan,ACURA TLX,6,2WD,Gasoline,small car,24
+Japan,ACURA TLX,6,4WD,Gasoline,small car,23
+Japan,ACURA TLX AWD A-SPEC,6,4WD,Gasoline,small car,23
+Japan,ACURA TLX FWD A-SPEC,4,2WD,Gasoline,small car,26
+Japan,ACURA TLX FWD A-SPEC,6,2WD,Gasoline,small car,23
+Italy,ALFA ROMEO 4C,4,2WD,Gasoline,small car,28
+Italy,ALFA ROMEO Giulia,4,2WD,Gasoline,midsize car,27
+Italy,ALFA ROMEO Giulia,6,2WD,Gasoline,midsize car,20
+Italy,ALFA ROMEO Giulia AWD,4,4WD,Gasoline,midsize car,26
+Italy,ALFA ROMEO Stelvio,4,2WD,Gasoline,small SUV,25
+Italy,ALFA ROMEO Stelvio AWD,4,4WD,Gasoline,small SUV,24
+Italy,ALFA ROMEO Stelvio AWD,6,4WD,Gasoline,small SUV,19
+UK,ASTON MARTIN DB11,8,2WD,Gasoline,small car,20
+UK,ASTON MARTIN DB11,12,2WD,Gasoline,small car,18
+UK,ASTON MARTIN DBS,12,2WD,Gasoline,small car,17
+Germany,AUDI A4,4,4WD,Gasoline,small car,27
+Germany,AUDI A5,4,4WD,Gasoline,small car,27
+Germany,AUDI A5 Cabriolet,4,4WD,Gasoline,small car,27
+Germany,AUDI A5 Sportback quattro,4,4WD,Gasoline,midsize car,27
+Germany,AUDI A6,6,4WD,Gasoline,midsize car,25
+Germany,AUDI A7,6,4WD,Gasoline,midsize car,25
+Germany,AUDI A8 L,6,4WD,Gasoline,large car,22
+Germany,AUDI Q7,4,4WD,Gasoline,standard SUV,21
+Germany,AUDI Q7,6,4WD,Gasoline,standard SUV,21
+Germany,AUDI Q8,6,4WD,Gasoline,standard SUV,19
+Germany,AUDI RS 5,6,4WD,Gasoline,small car,21
+Germany,AUDI RS 5 Sportback,6,4WD,Gasoline,midsize car,20
+Germany,AUDI S3,4,4WD,Gasoline,small car,25
+Germany,AUDI S4,6,4WD,Gasoline,small car,24
+Germany,AUDI S5,6,4WD,Gasoline,small car,24
+Germany,AUDI S5 Cabriolet,6,4WD,Gasoline,small car,24
+Germany,AUDI S5 Sportback,6,4WD,Gasoline,midsize car,24
+Germany,AUDI SQ5,6,4WD,Gasoline,small SUV,21
+UK,BENTLEY Bentayga,8,4WD,Gasoline,standard SUV,17
+UK,BENTLEY Chiron,16,4WD,Gasoline,small car,11
+UK,BENTLEY Mulsanne,8,2WD,Gasoline,midsize car,12
+Germany,BMW 230i Convertible,4,2WD,Gasoline,small car,27
+Germany,BMW 230i Coupe,4,2WD,Gasoline,small car,25
+Germany,BMW 230i Coupe,4,2WD,Gasoline,small car,28
+Germany,BMW 230i xDrive Convertible,4,4WD,Gasoline,small car,27
+Germany,BMW 230i xDrive Coupe,4,4WD,Gasoline,small car,27
+Germany,BMW 330i Gran Turismo,4,4WD,Gasoline,large car,27
+Germany,BMW 330i Sports Wagon,4,4WD,Gasoline,station wagon,27
+Germany,BMW 340i Gran Turismo,6,4WD,Gasoline,large car,23
+Germany,BMW 430i Convertible,4,2WD,Gasoline,small car,27
+Germany,BMW 430i Convertible,4,4WD,Gasoline,small car,26
+Germany,BMW 430i Coupe,4,2WD,Gasoline,small car,25
+Germany,BMW 430i Coupe,4,2WD,Gasoline,small car,27
+Germany,BMW 430i Coupe,4,4WD,Gasoline,small car,27
+Germany,BMW 430i Gran Coupe,4,2WD,Gasoline,small car,27
+Germany,BMW 430i Gran Coupe,4,4WD,Gasoline,small car,27
+Germany,BMW 440i Convertible,6,2WD,Gasoline,small car,24
+Germany,BMW 440i Convertible,6,4WD,Gasoline,small car,23
+Germany,BMW 440i Coupe,6,2WD,Gasoline,small car,22
+Germany,BMW 440i Coupe,6,4WD,Gasoline,small car,21
+Germany,BMW 440i Coupe,6,2WD,Gasoline,small car,25
+Germany,BMW 440i Coupe,6,4WD,Gasoline,small car,24
+Germany,BMW 440i Gran Coupe,6,2WD,Gasoline,small car,25
+Germany,BMW 440i Gran Coupe,6,4WD,Gasoline,small car,24
+Germany,BMW 530i,4,2WD,Gasoline,midsize car,27
+Germany,BMW 530i,4,4WD,Gasoline,midsize car,27
+Germany,BMW 540i,6,2WD,Gasoline,midsize car,24
+Germany,BMW 540i,6,4WD,Gasoline,midsize car,24
+Germany,BMW 640i Gran Coupe,6,2WD,Gasoline,small car,23
+Germany,BMW 640i Gran Coupe,6,4WD,Gasoline,small car,22
+Germany,BMW 640i Gran Turismo,6,4WD,Gasoline,large car,23
+Germany,BMW 650i Gran Coupe,8,2WD,Gasoline,small car,21
+Germany,BMW 650i Gran Coupe,8,4WD,Gasoline,small car,20
+Germany,BMW 740i,6,2WD,Gasoline,large car,24
+Germany,BMW 740i,6,4WD,Gasoline,large car,23
+Germany,BMW 750i,8,2WD,Gasoline,large car,21
+Germany,BMW 750i,8,4WD,Gasoline,large car,20
+Germany,BMW Alpina B6 Gran Coupe,8,4WD,Gasoline,small car,20
+Germany,BMW Alpina B7,8,4WD,Gasoline,large car,20
+Germany,BMW M2 Competition,6,2WD,Gasoline,small car,19
+Germany,BMW M2 Competition,6,2WD,Gasoline,small car,20
+Germany,BMW M240i Convertible,6,2WD,Gasoline,small car,21
+Germany,BMW M240i Convertible,6,2WD,Gasoline,small car,24
+Germany,BMW M240i Convertible,6,4WD,Gasoline,small car,24
+Germany,BMW M240i Coupe,6,2WD,Gasoline,small car,21
+Germany,BMW M240i Coupe,6,2WD,Gasoline,small car,24
+Germany,BMW M240i Coupe,6,4WD,Gasoline,small car,24
+Germany,BMW M240i Coupe M Performance,6,2WD,Gasoline,small car,21
+Germany,BMW M240i Coupe M Performance,6,2WD,Gasoline,small car,24
+Germany,BMW M240i Coupe M Performance,6,4WD,Gasoline,small car,24
+Germany,BMW M4 CS,6,2WD,Gasoline,small car,19
+Germany,BMW M4 Convertible,6,2WD,Gasoline,small car,19
+Germany,BMW M4 Convertible,6,2WD,Gasoline,small car,20
+Germany,BMW M4 Convertible Competition,6,2WD,Gasoline,small car,19
+Germany,BMW M4 Convertible Competition,6,2WD,Gasoline,small car,20
+Germany,BMW M4 Coupe,6,2WD,Gasoline,small car,19
+Germany,BMW M4 Coupe,6,2WD,Gasoline,small car,20
+Germany,BMW M4 Coupe Competition,6,2WD,Gasoline,small car,19
+Germany,BMW M4 Coupe Competition,6,2WD,Gasoline,small car,20
+Germany,BMW M5,8,4WD,Gasoline,midsize car,17
+Germany,BMW M5 Competition,8,4WD,Gasoline,midsize car,17
+Germany,BMW M550i,8,4WD,Gasoline,midsize car,20
+Germany,BMW M6 Gran Coupe,8,2WD,Gasoline,small car,16
+Germany,BMW M6 Gran Coupe,8,2WD,Gasoline,small car,17
+Germany,BMW M760i xDrive,12,4WD,Gasoline,large car,16
+Germany,BMW X3 M40i,6,4WD,Gasoline,small SUV,23
+Germany,BMW X3 sDrive30i,4,2WD,Gasoline,small SUV,26
+Germany,BMW X3 xDrive30i,4,4WD,Gasoline,small SUV,25
+Germany,BMW X4 M40i,6,4WD,Gasoline,small SUV,23
+Germany,BMW X4 xDrive30i,4,4WD,Gasoline,small SUV,25
+Germany,BMW X5 xDrive40i,6,4WD,Gasoline,standard SUV,22
+Germany,BMW X5 xDrive50i,8,4WD,Gasoline,standard SUV,19
+Germany,BMW X6 M,8,4WD,Gasoline,standard SUV,16
+Germany,BMW X6 sDrive35i,6,2WD,Gasoline,standard SUV,20
+Germany,BMW X6 xDrive35i,6,4WD,Gasoline,standard SUV,20
+Germany,BMW X6 xDrive50i,8,4WD,Gasoline,standard SUV,19
+Germany,BMW i3,N/A,2WD,Electricity,small car,113
+Germany,BMW i3s,N/A,2WD,Electricity,small car,113
+US,BUICK Enclave,6,2WD,Gasoline,standard SUV,21
+US,BUICK Enclave,6,4WD,Gasoline,standard SUV,20
+US,BUICK Encore,4,2WD,Gasoline,small SUV,28
+US,BUICK Encore,4,2WD,Gasoline,small SUV,27
+US,BUICK Encore,4,4WD,Gasoline,small SUV,27
+US,BUICK Encore,4,4WD,Gasoline,small SUV,26
+US,BUICK Envision,4,4WD,Gasoline,small SUV,22
+US,BUICK Envision,4,2WD,Gasoline,small SUV,25
+US,BUICK Envision,4,4WD,Gasoline,small SUV,24
+US,BUICK Lacrosse,4,2WD,Gasoline,midsize car,29
+US,BUICK Lacrosse,6,2WD,Gasoline,midsize car,24
+US,BUICK Lacrosse,6,4WD,Gasoline,midsize car,23
+US,BUICK Regal,4,4WD,Gasoline,midsize car,24
+US,BUICK Regal,4,2WD,Gasoline,midsize car,26
+US,BUICK Regal,6,4WD,Gasoline,midsize car,22
+US,BUICK Regal Tour X,4,4WD,Gasoline,station wagon,24
+US,CADILLAC ATS,4,2WD,Gasoline,small car,25
+US,CADILLAC ATS,4,4WD,Gasoline,small car,24
+US,CADILLAC ATS,6,2WD,Gasoline,small car,23
+US,CADILLAC ATS,6,4WD,Gasoline,small car,21
+US,CADILLAC ATS-V,6,2WD,Gasoline,small car,19
+US,CADILLAC ATS-V,6,2WD,Gasoline,small car,20
+US,CADILLAC CT6,4,2WD,Gasoline,large car,28
+US,CADILLAC CT6,6,4WD,Gasoline,large car,21
+US,CADILLAC CT6,6,4WD,Gasoline,large car,21
+US,CADILLAC CTS,4,2WD,Gasoline,midsize car,25
+US,CADILLAC CTS,4,4WD,Gasoline,midsize car,24
+US,CADILLAC CTS,6,2WD,Gasoline,midsize car,19
+US,CADILLAC CTS,6,2WD,Gasoline,midsize car,23
+US,CADILLAC CTS,6,4WD,Gasoline,midsize car,21
+US,CADILLAC CTS-V,8,2WD,Gasoline,midsize car,16
+US,CADILLAC Escalade,8,2WD,Gasoline,standard SUV,17
+US,CADILLAC Escalade,8,4WD,Gasoline,standard SUV,17
+US,CADILLAC XT4,4,2WD,Gasoline,small SUV,26
+US,CADILLAC XT4,4,4WD,Gasoline,small SUV,24
+US,CADILLAC XT5,6,2WD,Gasoline,small SUV,22
+US,CADILLAC XT5,6,4WD,Gasoline,small SUV,21
+US,CADILLAC XTS,6,2WD,Gasoline,large car,22
+US,CADILLAC XTS,6,2WD,Gasoline,large car,22
+US,CADILLAC XTS,6,4WD,Gasoline,large car,18
+US,CADILLAC XTS,6,4WD,Gasoline,large car,20
+US,CADILLAC XTS Limo,6,2WD,Gasoline,special purpose,17
+US,CHEVROLET Bolt EV,N/A,2WD,Electricity,station wagon,119
+US,CHEVROLET Camaro,4,2WD,Gasoline,small car,23
+US,CHEVROLET Camaro,4,2WD,Gasoline,small car,25
+US,CHEVROLET Camaro,6,2WD,Gasoline,small car,20
+US,CHEVROLET Camaro,6,2WD,Gasoline,small car,22
+US,CHEVROLET Camaro,8,2WD,Gasoline,small car,16
+US,CHEVROLET Camaro,8,2WD,Gasoline,small car,19
+US,CHEVROLET Camaro,8,2WD,Gasoline,small car,16
+US,CHEVROLET Camaro,8,2WD,Gasoline,small car,20
+US,CHEVROLET Colorado,4,2WD,Gasoline,pickup,22
+US,CHEVROLET Colorado,4,4WD,Gasoline,pickup,21
+US,CHEVROLET Colorado,4,2WD,Gasoline,pickup,22
+US,CHEVROLET Colorado,4,2WD,Diesel,pickup,23
+US,CHEVROLET Colorado,4,4WD,Diesel,pickup,22
+US,CHEVROLET Colorado,6,2WD,Gasoline,pickup,20
+US,CHEVROLET Colorado,6,2WD,Gasoline,special purpose,15
+US,CHEVROLET Colorado,6,4WD,Gasoline,pickup,19
+US,CHEVROLET Colorado ZR2,4,4WD,Diesel,pickup,19
+US,CHEVROLET Colorado ZR2,6,4WD,Gasoline,pickup,17
+US,CHEVROLET Corvette,8,2WD,Gasoline,small car,15
+US,CHEVROLET Corvette,8,2WD,Gasoline,small car,17
+US,CHEVROLET Corvette,8,2WD,Gasoline,small car,19
+US,CHEVROLET Corvette,8,2WD,Gasoline,small car,15
+US,CHEVROLET Corvette,8,2WD,Gasoline,small car,17
+US,CHEVROLET Corvette,8,2WD,Gasoline,small car,18
+US,CHEVROLET Cruze,4,2WD,Gasoline,small car,33
+US,CHEVROLET Cruze,4,2WD,Gasoline,small car,32
+US,CHEVROLET Cruze,4,2WD,Diesel,small car,37
+US,CHEVROLET Cruze Hatchback,4,2WD,Gasoline,midsize car,32
+US,CHEVROLET Cruze Hatchback,4,2WD,Diesel,midsize car,35
+US,CHEVROLET Cruze Premier,4,2WD,Gasoline,small car,32
+US,CHEVROLET Cruze Premier Hatchback,4,2WD,Gasoline,midsize car,31
+US,CHEVROLET Equinox,4,2WD,Gasoline,small SUV,28
+US,CHEVROLET Equinox,4,4WD,Gasoline,small SUV,27
+US,CHEVROLET Equinox,4,2WD,Diesel,small SUV,32
+US,CHEVROLET Equinox,4,4WD,Diesel,small SUV,32
+US,CHEVROLET Equinox,4,2WD,Gasoline,small SUV,25
+US,CHEVROLET Equinox,4,4WD,Gasoline,small SUV,24
+US,CHEVROLET Impala,4,2WD,Gasoline,large car,25
+US,CHEVROLET Impala,6,2WD,Gasoline,large car,22
+US,CHEVROLET Malibu,4,2WD,Gasoline,midsize car,32
+US,CHEVROLET Malibu,4,2WD,Gasoline,midsize car,32
+US,CHEVROLET Malibu,4,2WD,Gasoline,midsize car,46
+US,CHEVROLET Malibu,4,2WD,Gasoline,midsize car,26
+US,CHEVROLET Silverado 10,4,2WD,Gasoline,pickup,20
+US,CHEVROLET Silverado 10,4,2WD,Gasoline,pickup,21
+US,CHEVROLET Silverado 10,4,4WD,Gasoline,pickup,19
+US,CHEVROLET Silverado 10,4,4WD,Gasoline,pickup,20
+US,CHEVROLET Silverado 10,6,2WD,Gasoline,pickup,17
+US,CHEVROLET Silverado 10,6,2WD,Gasoline,special purpose,17
+US,CHEVROLET Silverado 10,6,4WD,Gasoline,pickup,17
+US,CHEVROLET Silverado 10,6,4WD,Gasoline,special purpose,15
+US,CHEVROLET Silverado 10,8,2WD,Gasoline,pickup,17
+US,CHEVROLET Silverado 10,8,2WD,Gasoline,special purpose,16
+US,CHEVROLET Silverado 10,8,4WD,Gasoline,pickup,17
+US,CHEVROLET Silverado 10,8,4WD,Gasoline,special purpose,15
+US,CHEVROLET Silverado 10,8,2WD,Gasoline,pickup,19
+US,CHEVROLET Silverado 10,8,2WD,Gasoline,pickup,19
+US,CHEVROLET Silverado 10,8,4WD,Gasoline,pickup,18
+US,CHEVROLET Silverado 10,8,4WD,Gasoline,pickup,17
+US,CHEVROLET Silverado 10 Trail Boss,6,4WD,Gasoline,pickup,16
+US,CHEVROLET Silverado 10 Trail Boss,8,4WD,Gasoline,pickup,16
+US,CHEVROLET Silverado 10 Trail Boss,8,4WD,Gasoline,pickup,17
+US,CHEVROLET Silverado 15 LD,8,2WD,Gasoline,pickup,17
+US,CHEVROLET Silverado 15 LD,8,4WD,Gasoline,pickup,17
+US,CHEVROLET Sonic,4,2WD,Gasoline,small car,31
+US,CHEVROLET Sonic,4,2WD,Gasoline,small car,29
+US,CHEVROLET Sonic 5,4,2WD,Gasoline,station wagon,29
+US,CHEVROLET Sonic 5,4,2WD,Gasoline,station wagon,29
+US,CHEVROLET Spark,4,2WD,Gasoline,small car,33
+US,CHEVROLET Spark,4,2WD,Gasoline,small car,33
+US,CHEVROLET Spark Activ,4,2WD,Gasoline,small car,33
+US,CHEVROLET Spark Activ,4,2WD,Gasoline,small car,32
+US,CHEVROLET Suburban 1500,8,2WD,Gasoline,standard SUV,18
+US,CHEVROLET Suburban 1500,8,4WD,Gasoline,standard SUV,16
+US,CHEVROLET Suburban 1500,8,2WD,Gasoline,standard SUV,17
+US,CHEVROLET Suburban 1500,8,4WD,Gasoline,standard SUV,16
+US,CHEVROLET Tahoe 1500,8,2WD,Gasoline,standard SUV,18
+US,CHEVROLET Tahoe 1500,8,4WD,Gasoline,standard SUV,17
+US,CHEVROLET Tahoe 1500,8,2WD,Gasoline,standard SUV,17
+US,CHEVROLET Tahoe 1500,8,4WD,Gasoline,standard SUV,17
+US,CHEVROLET Traverse,4,2WD,Gasoline,standard SUV,22
+US,CHEVROLET Traverse,6,2WD,Gasoline,standard SUV,21
+US,CHEVROLET Traverse,6,4WD,Gasoline,standard SUV,20
+US,CHEVROLET Trax,4,2WD,Gasoline,small SUV,28
+US,CHEVROLET Trax,4,4WD,Gasoline,small SUV,26
+US,CHRYSLER 300,6,2WD,Gasoline,large car,23
+US,CHRYSLER 300,6,4WD,Gasoline,large car,21
+US,CHRYSLER 300,8,2WD,Gasoline,large car,19
+US,CHRYSLER Pacifica,6,2WD,Gasoline,minivan,22
+US,CHRYSLER Pacifica,6,2WD,Gasoline,minivan,22
+US,DODGE Challenger,6,2WD,Gasoline,midsize car,23
+US,DODGE Challenger,8,2WD,Gasoline,midsize car,19
+US,DODGE Challenger,8,2WD,Gasoline,midsize car,18
+US,DODGE Challenger,8,2WD,Gasoline,midsize car,18
+US,DODGE Challenger,8,2WD,Gasoline,midsize car,17
+US,DODGE Challenger GT,6,4WD,Gasoline,midsize car,21
+US,DODGE Challenger SRT,8,2WD,Gasoline,midsize car,16
+US,DODGE Challenger SRT,8,2WD,Gasoline,midsize car,16
+US,DODGE Charger,6,2WD,Gasoline,large car,23
+US,DODGE Charger,6,4WD,Gasoline,large car,21
+US,DODGE Charger,8,2WD,Gasoline,large car,19
+US,DODGE Charger,8,2WD,Gasoline,large car,18
+US,DODGE Charger SRT,8,2WD,Gasoline,large car,16
+US,DODGE Durango,6,2WD,Gasoline,standard SUV,21
+US,DODGE Durango,6,4WD,Gasoline,standard SUV,21
+US,DODGE Durango,8,2WD,Gasoline,standard SUV,17
+US,DODGE Durango,8,4WD,Gasoline,standard SUV,17
+US,DODGE Durango  SRT,8,4WD,Gasoline,standard SUV,15
+US,DODGE Grand Caravan,6,2WD,Gasoline,minivan,20
+US,FERRARI 488 Pista,8,2WD,Gasoline,small car,17
+US,FERRARI 488 Pista Spider,8,2WD,Gasoline,small car,17
+US,FERRARI 488 Spider,8,2WD,Gasoline,small car,18
+US,FERRARI 488 Spider,8,2WD,Gasoline,small car,18
+US,FERRARI 488 gtb,8,2WD,Gasoline,small car,18
+US,FERRARI 488 gtb,8,2WD,Gasoline,small car,18
+US,FERRARI 812 Superfast,12,2WD,Gasoline,small car,13
+US,FERRARI GTC4Lusso,12,4WD,Gasoline,small car,13
+US,FERRARI GTC4Lusso T,8,2WD,Gasoline,small car,17
+US,FERRARI Portofino,8,2WD,Gasoline,small car,18
+US,FIAT 124 Spider,4,2WD,Gasoline,small car,29
+US,FIAT 124 Spider,4,2WD,Gasoline,small car,30
+US,FIAT 500L,4,2WD,Gasoline,station wagon,25
+US,FORD EcoSport,3,2WD,Gasoline,small SUV,28
+US,FORD EcoSport,4,4WD,Gasoline,small SUV,25
+US,FORD Edge,4,2WD,Gasoline,small SUV,25
+US,FORD Edge,4,4WD,Gasoline,small SUV,23
+US,FORD Edge,6,4WD,Gasoline,small SUV,21
+US,FORD Escape,4,2WD,Gasoline,small SUV,26
+US,FORD Escape,4,4WD,Gasoline,small SUV,24
+US,FORD Escape,4,2WD,Gasoline,small SUV,25
+US,FORD Escape,4,4WD,Gasoline,small SUV,23
+US,FORD Escape,4,2WD,Gasoline,small SUV,24
+US,FORD Expedition,6,2WD,Gasoline,standard SUV,20
+US,FORD Expedition,6,4WD,Gasoline,standard SUV,19
+US,FORD Expedition MAX,6,2WD,Gasoline,standard SUV,19
+US,FORD Expedition MAX,6,4WD,Gasoline,standard SUV,18
+US,FORD Explorer,4,2WD,Gasoline,standard SUV,22
+US,FORD Explorer,4,4WD,Gasoline,standard SUV,21
+US,FORD Explorer,6,2WD,Gasoline,standard SUV,20
+US,FORD Explorer,6,4WD,Gasoline,standard SUV,18
+US,FORD Explorer,6,4WD,Gasoline,standard SUV,19
+US,FORD F150,6,2WD,Gasoline,pickup,21
+US,FORD F150,6,2WD,Gasoline,pickup,21
+US,FORD F150,6,2WD,Gasoline,pickup,22
+US,FORD F150,6,4WD,Gasoline,pickup,20
+US,FORD F150,6,4WD,Gasoline,pickup,21
+US,FORD F150,6,2WD,Diesel,pickup,24
+US,FORD F150,6,2WD,Diesel,pickup,25
+US,FORD F150,6,4WD,Diesel,pickup,22
+US,FORD F150,6,2WD,Gasoline,pickup,19
+US,FORD F150,6,2WD,Gasoline,pickup,19
+US,FORD F150,6,2WD,Gasoline,pickup,21
+US,FORD F150,6,4WD,Gasoline,pickup,18
+US,FORD F150,6,4WD,Gasoline,pickup,18
+US,FORD F150,6,4WD,Gasoline,pickup,19
+US,FORD F150 Limited,6,2WD,Gasoline,pickup,19
+US,FORD F150 Limited,6,4WD,Gasoline,pickup,19
+US,FORD F150 Raptor,6,4WD,Gasoline,pickup,16
+US,FORD F150 XL/XLT,6,4WD,Diesel,pickup,24
+US,FORD Fiesta,4,2WD,Gasoline,small car,31
+US,FORD Fiesta,4,2WD,Gasoline,small car,30
+US,FORD Fiesta ST,4,2WD,Gasoline,small car,28
+US,FORD Flex,6,2WD,Gasoline,standard SUV,19
+US,FORD Flex,6,4WD,Gasoline,standard SUV,17
+US,FORD Flex,6,4WD,Gasoline,standard SUV,18
+US,FORD Fusion,4,2WD,Gasoline,midsize car,27
+US,FORD Fusion,4,2WD,Gasoline,midsize car,25
+US,FORD Fusion,4,4WD,Gasoline,midsize car,23
+US,FORD Fusion,4,2WD,Gasoline,midsize car,25
+US,FORD Fusion,6,4WD,Gasoline,midsize car,20
+US,FORD Fusion Hybrid,4,2WD,Gasoline,midsize car,42
+US,FORD Fusion Hybrid Taxi,4,2WD,Gasoline,midsize car,41
+US,FORD GT,6,2WD,Gasoline,small car,14
+US,FORD Mustang,4,2WD,Gasoline,small car,25
+US,FORD Mustang,4,2WD,Gasoline,small car,25
+US,FORD Mustang,8,2WD,Gasoline,small car,18
+US,FORD Mustang,8,2WD,Gasoline,small car,19
+US,FORD Mustang Bullitt,8,2WD,Gasoline,small car,18
+US,FORD Mustang Convertible,4,2WD,Gasoline,small car,23
+US,FORD Mustang Convertible,4,2WD,Gasoline,small car,23
+US,FORD Mustang Convertible,8,2WD,Gasoline,small car,18
+US,FORD Mustang Performance Package,4,2WD,Gasoline,small car,23
+US,FORD Mustang Performance Package,4,2WD,Gasoline,small car,23
+US,FORD Taurus,6,2WD,Gasoline,large car,21
+US,FORD Taurus,6,4WD,Gasoline,large car,19
+US,FORD Taurus,6,4WD,Gasoline,large car,19
+US,FORD Transit Connect,4,2WD,Gasoline,special purpose,25
+US,FORD Transit Connect,4,2WD,Gasoline,special purpose,26
+US,FORD Transit Connect,4,2WD,Gasoline,special purpose,22
+US,FORD Transit Connect,4,2WD,Gasoline,special purpose,22
+US,FORD Transit Connect USPS,4,2WD,Gasoline,special purpose,22
+US,FORD Transit T150,6,2WD,Gasoline,van,16
+US,FORD Transit T150,6,2WD,Gasoline,van,15
+Korea,GENESIS G70,4,2WD,Gasoline,small car,22
+Korea,GENESIS G70,4,2WD,Gasoline,small car,25
+Korea,GENESIS G70,4,4WD,Gasoline,small car,23
+Korea,GENESIS G70,6,2WD,Gasoline,small car,21
+Korea,GENESIS G70,6,4WD,Gasoline,small car,20
+Korea,GENESIS G80,6,2WD,Gasoline,large car,20
+Korea,GENESIS G80,6,4WD,Gasoline,large car,20
+Korea,GENESIS G80,6,2WD,Gasoline,large car,21
+Korea,GENESIS G80,6,4WD,Gasoline,large car,20
+Korea,GENESIS G80,8,2WD,Gasoline,large car,19
+Korea,GENESIS G80,8,4WD,Gasoline,large car,18
+Korea,GENESIS G90,6,2WD,Gasoline,large car,20
+Korea,GENESIS G90,6,4WD,Gasoline,large car,20
+Korea,GENESIS G90,8,2WD,Gasoline,large car,19
+Korea,GENESIS G90,8,4WD,Gasoline,large car,18
+US,GMC Acadia,4,2WD,Gasoline,standard SUV,23
+US,GMC Acadia,4,4WD,Gasoline,standard SUV,22
+US,GMC Acadia,6,2WD,Gasoline,standard SUV,21
+US,GMC Acadia,6,4WD,Gasoline,standard SUV,20
+US,GMC Canyon,4,2WD,Gasoline,pickup,22
+US,GMC Canyon,4,4WD,Gasoline,pickup,21
+US,GMC Canyon,4,2WD,Gasoline,pickup,22
+US,GMC Canyon,4,2WD,Diesel,pickup,23
+US,GMC Canyon,4,4WD,Diesel,pickup,22
+US,GMC Canyon,6,2WD,Gasoline,pickup,20
+US,GMC Canyon,6,2WD,Gasoline,special purpose,15
+US,GMC Canyon,6,4WD,Gasoline,pickup,19
+US,GMC Sierra 10,4,2WD,Gasoline,pickup,20
+US,GMC Sierra 10,4,2WD,Gasoline,pickup,21
+US,GMC Sierra 10,4,4WD,Gasoline,pickup,19
+US,GMC Sierra 10,4,4WD,Gasoline,pickup,20
+US,GMC Sierra 10,6,2WD,Gasoline,pickup,17
+US,GMC Sierra 10,6,2WD,Gasoline,special purpose,17
+US,GMC Sierra 10,6,4WD,Gasoline,pickup,17
+US,GMC Sierra 10,6,4WD,Gasoline,special purpose,15
+US,GMC Sierra 10,8,2WD,Gasoline,pickup,17
+US,GMC Sierra 10,8,2WD,Gasoline,special purpose,16
+US,GMC Sierra 10,8,4WD,Gasoline,pickup,17
+US,GMC Sierra 10,8,4WD,Gasoline,special purpose,15
+US,GMC Sierra 10,8,2WD,Gasoline,pickup,19
+US,GMC Sierra 10,8,2WD,Gasoline,pickup,19
+US,GMC Sierra 10,8,4WD,Gasoline,pickup,17
+US,GMC Sierra 10,8,4WD,Gasoline,pickup,17
+US,GMC Sierra 10 AT4,8,4WD,Gasoline,pickup,17
+US,GMC Sierra 10 AT4,8,4WD,Gasoline,pickup,17
+US,GMC Sierra 15 LTD,8,2WD,Gasoline,pickup,17
+US,GMC Sierra 15 LTD,8,4WD,Gasoline,pickup,17
+US,GMC Terrain,4,2WD,Gasoline,small SUV,28
+US,GMC Terrain,4,4WD,Gasoline,small SUV,26
+US,GMC Terrain,4,2WD,Diesel,small SUV,32
+US,GMC Terrain,4,4WD,Diesel,small SUV,32
+US,GMC Terrain,4,2WD,Gasoline,small SUV,24
+US,GMC Terrain,4,4WD,Gasoline,small SUV,23
+US,GMC Yukon 1500,8,2WD,Gasoline,standard SUV,18
+US,GMC Yukon 1500,8,4WD,Gasoline,standard SUV,17
+US,GMC Yukon 1500,8,2WD,Gasoline,standard SUV,17
+US,GMC Yukon 1500,8,4WD,Gasoline,standard SUV,17
+US,GMC Yukon 1500 XL,8,2WD,Gasoline,standard SUV,18
+US,GMC Yukon 1500 XL,8,4WD,Gasoline,standard SUV,16
+US,GMC Yukon 1500 XL,8,2WD,Gasoline,standard SUV,17
+US,GMC Yukon 1500 XL,8,4WD,Gasoline,standard SUV,16
+Japan,HONDA Accord,4,2WD,Gasoline,large car,33
+Japan,HONDA Accord,4,2WD,Gasoline,large car,30
+Japan,HONDA Accord,4,2WD,Gasoline,large car,31
+Japan,HONDA Accord,4,2WD,Gasoline,large car,27
+Japan,HONDA Accord,4,2WD,Gasoline,large car,48
+Japan,HONDA Accord,4,2WD,Gasoline,large car,26
+Japan,HONDA Accord 2.0T Sport/Touring,4,2WD,Gasoline,midsize car,26
+Japan,HONDA CR-V,4,2WD,Gasoline,small SUV,30
+Japan,HONDA CR-V,4,4WD,Gasoline,small SUV,29
+Japan,HONDA CR-V,4,2WD,Gasoline,small SUV,28
+Japan,HONDA CR-V,4,4WD,Gasoline,small SUV,27
+Japan,HONDA Civic 2Dr,4,2WD,Gasoline,small car,35
+Japan,HONDA Civic 2Dr,4,2WD,Gasoline,small car,35
+Japan,HONDA Civic 2Dr,4,2WD,Gasoline,small car,32
+Japan,HONDA Civic 2Dr,4,2WD,Gasoline,small car,33
+Japan,HONDA Civic 2Dr,4,2WD,Gasoline,small car,33
+Japan,HONDA Civic 2Dr,4,2WD,Gasoline,small car,33
+Japan,HONDA Civic 2Dr,4,2WD,Gasoline,small car,33
+Japan,HONDA Civic 2Dr,4,2WD,Gasoline,small car,29
+Japan,HONDA Civic 2Dr,4,2WD,Gasoline,small car,32
+Japan,HONDA Civic 2Dr,4,2WD,Gasoline,small car,32
+Japan,HONDA Civic 4Dr,4,2WD,Gasoline,midsize car,36
+Japan,HONDA Civic 4Dr,4,2WD,Gasoline,midsize car,36
+Japan,HONDA Civic 4Dr,4,2WD,Gasoline,midsize car,32
+Japan,HONDA Civic 4Dr,4,2WD,Gasoline,midsize car,33
+Japan,HONDA Civic 4Dr,4,2WD,Gasoline,midsize car,33
+Japan,HONDA Civic 4Dr,4,2WD,Gasoline,midsize car,33
+Japan,HONDA Civic 4Dr,4,2WD,Gasoline,midsize car,33
+Japan,HONDA Civic 4Dr,4,2WD,Gasoline,midsize car,29
+Japan,HONDA Civic 4Dr,4,2WD,Gasoline,midsize car,32
+Japan,HONDA Civic 4Dr,4,2WD,Gasoline,midsize car,32
+Japan,HONDA Fit,4,2WD,Gasoline,station wagon,36
+Japan,HONDA Fit,4,2WD,Gasoline,station wagon,31
+Japan,HONDA Fit,4,2WD,Gasoline,station wagon,33
+Japan,HONDA HR-V,4,2WD,Gasoline,station wagon,30
+Japan,HONDA HR-V,4,4WD,Gasoline,station wagon,29
+Japan,HONDA HR-V,4,4WD,Gasoline,station wagon,28
+Japan,HONDA Insight,4,2WD,Gasoline,midsize car,52
+Japan,HONDA Insight Touring,4,2WD,Gasoline,midsize car,48
+Japan,HONDA Odyssey,6,2WD,Gasoline,minivan,22
+Japan,HONDA Odyssey,6,2WD,Gasoline,minivan,22
+Japan,HONDA Pilot,6,2WD,Gasoline,small SUV,22
+Japan,HONDA Pilot,6,4WD,Gasoline,small SUV,21
+Japan,HONDA Pilot,6,2WD,Gasoline,small SUV,23
+Japan,HONDA Pilot,6,4WD,Gasoline,small SUV,22
+Japan,HONDA Ridgeline,6,2WD,Gasoline,pickup,22
+Japan,HONDA Ridgeline,6,4WD,Gasoline,pickup,21
+Korea,HYUNDAI Accent,4,2WD,Gasoline,small car,31
+Korea,HYUNDAI Accent,4,2WD,Gasoline,small car,32
+Korea,HYUNDAI Elantra,4,2WD,Gasoline,midsize car,35
+Korea,HYUNDAI Elantra,4,2WD,Gasoline,midsize car,29
+Korea,HYUNDAI Elantra,4,2WD,Gasoline,midsize car,25
+Korea,HYUNDAI Elantra,4,2WD,Gasoline,midsize car,29
+Korea,HYUNDAI Elantra,4,2WD,Gasoline,midsize car,32
+Korea,HYUNDAI Elantra,4,2WD,Gasoline,midsize car,32
+Korea,HYUNDAI Elantra GT,4,2WD,Gasoline,large car,28
+Korea,HYUNDAI Elantra GT,4,2WD,Gasoline,large car,26
+Korea,HYUNDAI Elantra GT,4,2WD,Gasoline,large car,27
+Korea,HYUNDAI Elantra SE,4,2WD,Gasoline,midsize car,33
+Korea,HYUNDAI Elantra SE,4,2WD,Gasoline,midsize car,33
+Korea,HYUNDAI Ioniq,4,2WD,Gasoline,large car,55
+Korea,HYUNDAI Ioniq Blue,4,2WD,Gasoline,large car,58
+Korea,HYUNDAI Ioniq Electric,N/A,2WD,Electricity,midsize car,136
+Korea,HYUNDAI Kona,4,2WD,Gasoline,small SUV,30
+Korea,HYUNDAI Kona,4,4WD,Gasoline,small SUV,27
+Korea,HYUNDAI Kona,4,2WD,Gasoline,small SUV,30
+Korea,HYUNDAI Kona,4,4WD,Gasoline,small SUV,27
+Korea,HYUNDAI Kona Electric,N/A,2WD,Electricity,small SUV,120
+Korea,HYUNDAI NEXO,N/A,2WD,Hydrogen,small SUV,57
+Korea,HYUNDAI NEXO Blue,N/A,2WD,Hydrogen,small SUV,61
+Korea,HYUNDAI Santa Fe,4,2WD,Gasoline,small SUV,22
+Korea,HYUNDAI Santa Fe,4,4WD,Gasoline,small SUV,21
+Korea,HYUNDAI Santa Fe,4,2WD,Gasoline,small SUV,25
+Korea,HYUNDAI Santa Fe,4,2WD,Gasoline,small SUV,25
+Korea,HYUNDAI Santa Fe,4,4WD,Gasoline,small SUV,23
+Korea,HYUNDAI Santa Fe XL,6,2WD,Gasoline,small SUV,21
+Korea,HYUNDAI Santa Fe XL,6,4WD,Gasoline,small SUV,20
+Korea,HYUNDAI Santa Fe XL Ultimate,6,2WD,Gasoline,small SUV,20
+Korea,HYUNDAI Santa Fe XL Ultimate,6,4WD,Gasoline,small SUV,19
+Korea,HYUNDAI Sonata,4,2WD,Gasoline,large car,31
+Korea,HYUNDAI Sonata,4,2WD,Gasoline,large car,26
+Korea,HYUNDAI Sonata,4,2WD,Gasoline,large car,28
+Korea,HYUNDAI Sonata Hybrid,4,2WD,Gasoline,midsize car,41
+Korea,HYUNDAI Sonata Hybrid SE,4,2WD,Gasoline,midsize car,42
+Korea,HYUNDAI Sonata SE,4,2WD,Gasoline,large car,29
+Korea,HYUNDAI Tuscon,4,2WD,Gasoline,small SUV,26
+Korea,HYUNDAI Tuscon,4,4WD,Gasoline,small SUV,23
+Korea,HYUNDAI Tuscon,4,2WD,Gasoline,small SUV,25
+Korea,HYUNDAI Tuscon,4,2WD,Gasoline,small SUV,25
+Korea,HYUNDAI Tuscon,4,4WD,Gasoline,small SUV,23
+Korea,HYUNDAI Veloster,4,2WD,Gasoline,small car,30
+Korea,HYUNDAI Veloster,4,2WD,Gasoline,small car,29
+Korea,HYUNDAI Veloster,4,2WD,Gasoline,small car,28
+Korea,HYUNDAI Veloster,4,2WD,Gasoline,small car,30
+Korea,HYUNDAI Veloster N,4,2WD,Gasoline,small car,25
+Japan,INFINITI Q50,4,2WD,Gasoline,midsize car,25
+Japan,INFINITI Q50,4,4WD,Gasoline,midsize car,24
+Japan,INFINITI Q50,6,2WD,Gasoline,midsize car,23
+Japan,INFINITI Q50,6,4WD,Gasoline,midsize car,22
+Japan,INFINITI Q50 Red Sport,6,2WD,Gasoline,midsize car,22
+Japan,INFINITI Q50 Red Sport,6,4WD,Gasoline,midsize car,22
+Japan,INFINITI Q60,4,2WD,Gasoline,small car,25
+Japan,INFINITI Q60,4,4WD,Gasoline,small car,24
+Japan,INFINITI Q60,6,2WD,Gasoline,small car,22
+Japan,INFINITI Q60,6,4WD,Gasoline,small car,22
+Japan,INFINITI Q60 Red Sport,6,2WD,Gasoline,small car,22
+Japan,INFINITI Q60 Red Sport,6,4WD,Gasoline,small car,21
+Japan,INFINITI Q70,6,2WD,Gasoline,midsize car,21
+Japan,INFINITI Q70,6,4WD,Gasoline,midsize car,20
+Japan,INFINITI Q70,8,2WD,Gasoline,midsize car,19
+Japan,INFINITI Q70,8,4WD,Gasoline,midsize car,18
+Japan,INFINITI QX50,4,2WD,Gasoline,small SUV,27
+Japan,INFINITI QX50,4,4WD,Gasoline,small SUV,26
+Japan,INFINITI QX60,6,2WD,Gasoline,small SUV,22
+Japan,INFINITI QX60,6,4WD,Gasoline,small SUV,22
+Japan,INFINITI QX80,8,2WD,Gasoline,standard SUV,16
+Japan,INFINITI QX80,8,4WD,Gasoline,standard SUV,15
+UK,JAGUAR E-Pace P250,4,4WD,Gasoline,small SUV,24
+UK,JAGUAR E-Pace P300,4,4WD,Gasoline,small SUV,23
+UK,JAGUAR F-Pace,4,4WD,Diesel,small SUV,29
+UK,JAGUAR F-Pace,4,4WD,Gasoline,small SUV,24
+UK,JAGUAR F-Pace,6,4WD,Gasoline,small SUV,20
+UK,JAGUAR F-Pace,8,4WD,Gasoline,small SUV,18
+UK,JAGUAR F-Type Convertible,4,2WD,Gasoline,small car,26
+UK,JAGUAR F-Type Convertible,6,2WD,Gasoline,small car,19
+UK,JAGUAR F-Type Convertible,6,2WD,Gasoline,small car,23
+UK,JAGUAR F-Type Coupe,4,2WD,Gasoline,small car,26
+UK,JAGUAR F-Type Coupe,6,2WD,Gasoline,small car,19
+UK,JAGUAR F-Type Coupe,6,2WD,Gasoline,small car,23
+UK,JAGUAR F-Type R Convertible,8,4WD,Gasoline,small car,18
+UK,JAGUAR F-Type R Coupe,8,4WD,Gasoline,small car,18
+UK,JAGUAR F-Type S Convertible,6,2WD,Gasoline,small car,18
+UK,JAGUAR F-Type S Convertible,6,2WD,Gasoline,small car,22
+UK,JAGUAR F-Type S Convertible,6,4WD,Gasoline,small car,21
+UK,JAGUAR F-Type S Coupe,6,2WD,Gasoline,small car,18
+UK,JAGUAR F-Type S Coupe,6,2WD,Gasoline,small car,22
+UK,JAGUAR F-Type S Coupe,6,4WD,Gasoline,small car,21
+UK,JAGUAR F-Type SVR Convertible GEN2,8,4WD,Gasoline,small car,18
+UK,JAGUAR F-Type SVR Coupe GEN2,8,4WD,Gasoline,small car,18
+UK,JAGUAR I-PACE,N/A,4WD,Electricity,small SUV,76
+UK,JAGUAR XE,4,2WD,Diesel,small car,36
+UK,JAGUAR XE,4,2WD,Gasoline,small car,28
+UK,JAGUAR XE,4,4WD,Diesel,small car,34
+UK,JAGUAR XE,4,4WD,Gasoline,small car,28
+UK,JAGUAR XE,6,2WD,Gasoline,small car,24
+UK,JAGUAR XE,6,4WD,Gasoline,small car,23
+UK,JAGUAR XE,8,4WD,Gasoline,small car,18
+UK,JAGUAR XF,4,2WD,Diesel,midsize car,35
+UK,JAGUAR XF,4,2WD,Gasoline,midsize car,28
+UK,JAGUAR XF,4,4WD,Diesel,midsize car,34
+UK,JAGUAR XF,4,4WD,Gasoline,midsize car,27
+UK,JAGUAR XF,6,2WD,Gasoline,midsize car,23
+UK,JAGUAR XF,6,4WD,Gasoline,midsize car,23
+UK,JAGUAR XF Sportbrake,6,4WD,Gasoline,station wagon,21
+UK,JAGUAR XJ,6,2WD,Gasoline,large car,21
+UK,JAGUAR XJ,6,4WD,Gasoline,large car,20
+UK,JAGUAR XJ,8,2WD,Gasoline,large car,18
+UK,JAGUAR XJL,6,2WD,Gasoline,large car,21
+UK,JAGUAR XJL,6,4WD,Gasoline,large car,20
+UK,JAGUAR XJL,8,2WD,Gasoline,large car,18
+US,JEEP Cherokee,4,2WD,Gasoline,small SUV,26
+US,JEEP Cherokee,4,4WD,Gasoline,small SUV,24
+US,JEEP Cherokee,4,2WD,Gasoline,small SUV,25
+US,JEEP Cherokee,4,2WD,Gasoline,small SUV,25
+US,JEEP Cherokee,4,2WD,Gasoline,small SUV,25
+US,JEEP Cherokee,4,4WD,Gasoline,small SUV,24
+US,JEEP Cherokee,4,4WD,Gasoline,small SUV,24
+US,JEEP Cherokee,4,4WD,Gasoline,small SUV,24
+US,JEEP Cherokee,6,2WD,Gasoline,small SUV,23
+US,JEEP Cherokee,6,4WD,Gasoline,small SUV,22
+US,JEEP Cherokee 4x4 Active Drive II,4,4WD,Gasoline,small SUV,23
+US,JEEP Cherokee 4x4 Active Drive II,6,4WD,Gasoline,small SUV,21
+US,JEEP Cherokee Trailhawk,4,4WD,Gasoline,small SUV,22
+US,JEEP Cherokee Trailhawk,6,4WD,Gasoline,small SUV,21
+US,JEEP Compass,4,2WD,Gasoline,small SUV,25
+US,JEEP Compass,4,2WD,Gasoline,small SUV,25
+US,JEEP Compass,4,4WD,Gasoline,small SUV,25
+US,JEEP Compass,4,4WD,Gasoline,small SUV,25
+US,JEEP Compass,4,2WD,Gasoline,small SUV,26
+US,JEEP Compass,4,4WD,Gasoline,small SUV,25
+US,JEEP Grand Cherokee,6,2WD,Gasoline,standard SUV,21
+US,JEEP Grand Cherokee,6,4WD,Gasoline,standard SUV,21
+US,JEEP Grand Cherokee,8,4WD,Gasoline,standard SUV,17
+US,JEEP Grand Cherokee SRT,8,4WD,Gasoline,standard SUV,15
+US,JEEP Grand Cherokee Trackhawk,8,4WD,Gasoline,standard SUV,13
+US,JEEP Wrangler,4,4WD,Gasoline,small SUV,24
+US,JEEP Wrangler,6,4WD,Gasoline,small SUV,20
+US,JEEP Wrangler,6,4WD,Gasoline,small SUV,20
+US,JEEP Wrangler Unlimited,4,4WD,Gasoline,small SUV,22
+US,JEEP Wrangler Unlimited,6,4WD,Gasoline,small SUV,20
+US,JEEP Wrangler Unlimited,6,4WD,Gasoline,small SUV,19
+Korea,KIA Cadenza,6,2WD,Gasoline,large car,23
+Korea,KIA Forte,4,2WD,Gasoline,midsize car,34
+Korea,KIA Forte,4,2WD,Gasoline,midsize car,34
+Korea,KIA Forte,4,2WD,Gasoline,midsize car,31
+Korea,KIA Forte FE,4,2WD,Gasoline,midsize car,35
+Korea,KIA K900,6,4WD,Gasoline,large car,21
+Korea,KIA Niro,4,2WD,Gasoline,station wagon,49
+Korea,KIA Niro FE,4,2WD,Gasoline,station wagon,50
+Korea,KIA Niro Touring,4,2WD,Gasoline,station wagon,43
+Korea,KIA Optima,4,2WD,Gasoline,large car,31
+Korea,KIA Optima,4,2WD,Gasoline,large car,24
+Korea,KIA Optima,4,2WD,Gasoline,large car,27
+Korea,KIA Optima,4,2WD,Gasoline,large car,27
+Korea,KIA Optima FE,4,2WD,Gasoline,large car,29
+Korea,KIA Optima FE,4,2WD,Gasoline,large car,29
+Korea,KIA Optima Hybrid,4,2WD,Gasoline,midsize car,41
+Korea,KIA Rio,4,2WD,Gasoline,small car,32
+Korea,KIA Rio,4,2WD,Gasoline,small car,32
+Korea,KIA Sedona,6,2WD,Gasoline,minivan,21
+Korea,KIA Sorento,4,2WD,Gasoline,small SUV,25
+Korea,KIA Sorento,4,4WD,Gasoline,small SUV,23
+Korea,KIA Sorento,6,2WD,Gasoline,small SUV,22
+Korea,KIA Sorento,6,4WD,Gasoline,small SUV,21
+Korea,KIA Soul,4,2WD,Gasoline,station wagon,28
+Korea,KIA Soul,4,2WD,Gasoline,station wagon,27
+Korea,KIA Soul,4,2WD,Gasoline,station wagon,28
+Korea,KIA Soul,4,2WD,Gasoline,station wagon,27
+Korea,KIA Soul,4,2WD,Gasoline,station wagon,27
+Korea,KIA Soul Electric,N/A,2WD,Electricity,station wagon,108
+Korea,KIA Sportage,4,2WD,Gasoline,small SUV,23
+Korea,KIA Sportage,4,4WD,Gasoline,small SUV,21
+Korea,KIA Sportage,4,2WD,Gasoline,small SUV,25
+Korea,KIA Sportage,4,2WD,Gasoline,small SUV,25
+Korea,KIA Sportage,4,4WD,Gasoline,small SUV,23
+Korea,KIA Sportage,4,4WD,Gasoline,small SUV,23
+Korea,KIA Sportage FE,4,2WD,Gasoline,small SUV,25
+Korea,KIA Sportage FE,4,2WD,Gasoline,small SUV,25
+Korea,KIA Sportage FE,4,4WD,Gasoline,small SUV,22
+Korea,KIA Sportage FE,4,4WD,Gasoline,small SUV,22
+Korea,KIA Stinger,4,2WD,Gasoline,midsize car,25
+Korea,KIA Stinger,4,4WD,Gasoline,midsize car,24
+Korea,KIA Stinger,6,2WD,Gasoline,midsize car,21
+Korea,KIA Stinger,6,4WD,Gasoline,midsize car,21
+Italy,LAMBORGHINI Aventador Coupe,12,4WD,Gasoline,small car,11
+Italy,LAMBORGHINI Aventador Roadster,12,4WD,Gasoline,small car,11
+Italy,LAMBORGHINI Huracan,10,2WD,Gasoline,small car,15
+Italy,LAMBORGHINI Huracan,10,4WD,Gasoline,small car,15
+Italy,LAMBORGHINI Huracan Spyder,10,2WD,Gasoline,small car,15
+Italy,LAMBORGHINI Huracan Spyder,10,4WD,Gasoline,small car,15
+Italy,LAMBORGHINI Urus,8,4WD,Gasoline,standard SUV,14
+UK,LAND ROVER Discovery,6,4WD,Diesel,standard SUV,23
+UK,LAND ROVER Discovery,6,4WD,Gasoline,standard SUV,18
+UK,LAND ROVER Discovery Sport,4,4WD,Gasoline,small SUV,22
+UK,LAND ROVER Discovery Sport Si4,4,4WD,Gasoline,small SUV,22
+UK,LAND ROVER Range Rover,8,4WD,Gasoline,standard SUV,18
+UK,LAND ROVER Range Rover Evoque 237HP,4,4WD,Gasoline,small SUV,25
+UK,LAND ROVER Range Rover Evoque 286HP,4,4WD,Gasoline,small SUV,24
+UK,LAND ROVER Range Rover Evoque Cabriolet,4,4WD,Gasoline,small SUV,24
+UK,LAND ROVER Range Rover LWB,8,4WD,Gasoline,standard SUV,18
+UK,LAND ROVER Range Rover LWB SVA,8,4WD,Gasoline,standard SUV,15
+UK,LAND ROVER Range Rover SVA,6,4WD,Diesel,standard SUV,24
+UK,LAND ROVER Range Rover SVA,6,4WD,Gasoline,standard SUV,19
+UK,LAND ROVER Range Rover SVA,8,4WD,Gasoline,standard SUV,16
+UK,LAND ROVER Range Rover Sport,6,4WD,Diesel,standard SUV,24
+UK,LAND ROVER Range Rover Sport,6,4WD,Gasoline,standard SUV,19
+UK,LAND ROVER Range Rover Sport,8,4WD,Gasoline,standard SUV,19
+UK,LAND ROVER Range Rover Sport SVR,8,4WD,Gasoline,standard SUV,16
+UK,LAND ROVER Range Rover Velar,4,4WD,Diesel,small SUV,28
+UK,LAND ROVER Range Rover Velar,4,4WD,Gasoline,small SUV,23
+UK,LAND ROVER Range Rover Velar,6,4WD,Gasoline,small SUV,20
+Japan,LEXUS ES 300h,4,2WD,Gasoline,midsize car,44
+Japan,LEXUS ES 350,6,2WD,Gasoline,midsize car,26
+Japan,LEXUS ES 350 F Sport,6,2WD,Gasoline,midsize car,25
+Japan,LEXUS GS 300,4,2WD,Gasoline,midsize car,26
+Japan,LEXUS GS 300 F Sport,4,2WD,Gasoline,midsize car,24
+Japan,LEXUS GS 350,6,4WD,Gasoline,midsize car,21
+Japan,LEXUS GS 350,6,2WD,Gasoline,midsize car,23
+Japan,LEXUS GS 350 F Sport,6,2WD,Gasoline,midsize car,22
+Japan,LEXUS GS F,8,2WD,Gasoline,small car,19
+Japan,LEXUS GX 460,8,4WD,Gasoline,standard SUV,16
+Japan,LEXUS IS 300,4,2WD,Gasoline,small car,24
+Japan,LEXUS IS 300,6,4WD,Gasoline,small car,21
+Japan,LEXUS IS 350,6,4WD,Gasoline,small car,21
+Japan,LEXUS IS 350,6,2WD,Gasoline,small car,23
+Japan,LEXUS LC 500,8,2WD,Gasoline,small car,19
+Japan,LEXUS LC 500h,6,2WD,Gasoline,small car,30
+Japan,LEXUS LS 500,6,2WD,Gasoline,midsize car,23
+Japan,LEXUS LS 500,6,4WD,Gasoline,midsize car,21
+Japan,LEXUS LS 500h,6,2WD,Gasoline,midsize car,28
+Japan,LEXUS LS 500h,6,4WD,Gasoline,midsize car,26
+Japan,LEXUS LX 570,8,4WD,Gasoline,standard SUV,15
+Japan,LEXUS NX 300,4,2WD,Gasoline,small SUV,25
+Japan,LEXUS NX 300,4,4WD,Gasoline,small SUV,24
+Japan,LEXUS NX 300 F Sport,4,4WD,Gasoline,small SUV,24
+Japan,LEXUS NX 300h,4,4WD,Gasoline,small SUV,31
+Japan,LEXUS RC 300,4,2WD,Gasoline,small car,24
+Japan,LEXUS RC 300,6,4WD,Gasoline,small car,21
+Japan,LEXUS RC 350,6,4WD,Gasoline,small car,21
+Japan,LEXUS RC 350,6,2WD,Gasoline,small car,23
+Japan,LEXUS RC F,8,2WD,Gasoline,small car,19
+Japan,LEXUS RX 350,6,2WD,Gasoline,small SUV,23
+Japan,LEXUS RX 350,6,4WD,Gasoline,small SUV,22
+Japan,LEXUS RX 350 L,6,2WD,Gasoline,small SUV,22
+Japan,LEXUS RX 350 L,6,4WD,Gasoline,small SUV,21
+Japan,LEXUS RX 450h,6,4WD,Gasoline,standard SUV,30
+Japan,LEXUS RX 450h L,6,4WD,Gasoline,standard SUV,29
+US,LINCOLN Continental,6,2WD,Gasoline,large car,21
+US,LINCOLN Continental,6,4WD,Gasoline,large car,20
+US,LINCOLN Continental,6,4WD,Gasoline,large car,19
+US,LINCOLN Continental,6,2WD,Gasoline,large car,20
+US,LINCOLN Continental,6,4WD,Gasoline,large car,19
+US,LINCOLN MKC,4,2WD,Gasoline,small SUV,23
+US,LINCOLN MKC,4,4WD,Gasoline,small SUV,21
+US,LINCOLN MKC,4,4WD,Gasoline,small SUV,22
+US,LINCOLN MKC,4,4WD,Gasoline,small SUV,20
+US,LINCOLN MKT,6,4WD,Gasoline,standard SUV,17
+US,LINCOLN MKT,6,2WD,Gasoline,standard SUV,19
+US,LINCOLN MKT Livery,6,4WD,Gasoline,special purpose,18
+US,LINCOLN MKZ,4,2WD,Gasoline,midsize car,24
+US,LINCOLN MKZ,4,4WD,Gasoline,midsize car,23
+US,LINCOLN MKZ,6,2WD,Gasoline,midsize car,21
+US,LINCOLN MKZ,6,4WD,Gasoline,midsize car,20
+US,LINCOLN MKZ Hybrid,4,2WD,Gasoline,midsize car,41
+US,LINCOLN Nautilus,4,4WD,Gasoline,small SUV,22
+US,LINCOLN Nautilus,6,4WD,Gasoline,small SUV,21
+US,LINCOLN Navigator,6,2WD,Gasoline,standard SUV,19
+US,LINCOLN Navigator L,6,2WD,Gasoline,standard SUV,18
+US,LINCOLN Nuatilus,4,2WD,Gasoline,small SUV,23
+US,LINCOLN Nuatilus,6,2WD,Gasoline,small SUV,22
+Italy,MASERATI Ghibli,6,2WD,Gasoline,midsize car,19
+Italy,MASERATI Ghibli S,6,2WD,Gasoline,midsize car,19
+Italy,MASERATI Ghibli S Q4,6,4WD,Gasoline,midsize car,19
+Italy,MASERATI Granturismo Convertible,8,2WD,Gasoline,small car,16
+Italy,MASERATI Levante,8,4WD,Gasoline,standard SUV,17
+Italy,MASERATI Levante GTS,8,4WD,Gasoline,standard SUV,15
+Italy,MASERATI Levante S,8,4WD,Gasoline,standard SUV,17
+Italy,MASERATI Levante Trofeo,8,4WD,Gasoline,standard SUV,15
+Italy,MASERATI Quattroporte S,6,2WD,Gasoline,large car,18
+Italy,MASERATI Quattroporte S Q4,6,4WD,Gasoline,large car,18
+Italy,MASERATI Quattroporte V8,8,2WD,Gasoline,large car,17
+Japan,MAZDA CX-3,4,2WD,Gasoline,small car,31
+Japan,MAZDA CX-3,4,2WD,Gasoline,small car,31
+Japan,MAZDA CX-3,4,4WD,Gasoline,small car,29
+Japan,MAZDA CX-3,4,4WD,Gasoline,small car,29
+Japan,MAZDA CX-5 2WD,4,2WD,Gasoline,small SUV,28
+Japan,MAZDA CX-5 2WD,4,2WD,Gasoline,small SUV,25
+Japan,MAZDA CX-5 4WD,4,4WD,Gasoline,small SUV,26
+Japan,MAZDA CX-5 4WD,4,4WD,Gasoline,small SUV,24
+Japan,MAZDA CX-9,4,2WD,Gasoline,small SUV,24
+Japan,MAZDA CX-9,4,4WD,Gasoline,small SUV,23
+Japan,MAZDA MX-5,4,2WD,Gasoline,small car,29
+Japan,MAZDA MX-5,4,2WD,Gasoline,small car,30
+Germany,MERCEDES-BENZ AMG CLA45 4Matic,4,4WD,Gasoline,small car,26
+Germany,MERCEDES-BENZ AMG CLS53 4Matic+,6,4WD,Gasoline,small car,23
+Germany,MERCEDES-BENZ AMG E53 4Matic+,6,4WD,Gasoline,midsize car,24
+Germany,MERCEDES-BENZ AMG E53 4Matic+,6,4WD,Gasoline,small car,23
+Germany,MERCEDES-BENZ AMG E53 4Matic+,6,4WD,Gasoline,small car,23
+Germany,MERCEDES-BENZ AMG GLA45 4Matic,4,4WD,Gasoline,station wagon,25
+Germany,MERCEDES-BENZ AMG GLC63 4Matic,8,4WD,Gasoline,small SUV,18
+Germany,MERCEDES-BENZ AMG GLC63 4Matic,8,4WD,Gasoline,small SUV,18
+Germany,MERCEDES-BENZ AMG GLC63 S 4Matic,8,4WD,Gasoline,small SUV,18
+Germany,MERCEDES-BENZ AMG GLE 43 4Matic,6,4WD,Gasoline,standard SUV,19
+Germany,MERCEDES-BENZ AMG GLE 43 4Matic,6,4WD,Gasoline,standard SUV,19
+Germany,MERCEDES-BENZ AMG GLE63,8,4WD,Gasoline,standard SUV,14
+Germany,MERCEDES-BENZ AMG GLE63 S,8,4WD,Gasoline,standard SUV,15
+Germany,MERCEDES-BENZ AMG GLE63 S,8,4WD,Gasoline,standard SUV,15
+Germany,MERCEDES-BENZ AMG GLS63,8,4WD,Gasoline,standard SUV,15
+Germany,MERCEDES-BENZ AMG GT R,8,2WD,Gasoline,small car,17
+Germany,MERCEDES-BENZ AMG S63 4Matic,8,4WD,Gasoline,large car,20
+Germany,MERCEDES-BENZ AMG S63 4Matic,8,4WD,Gasoline,small car,18
+Germany,MERCEDES-BENZ AMG S63 4Matic,8,4WD,Gasoline,small car,20
+Germany,MERCEDES-BENZ AMG S65,12,2WD,Gasoline,large car,16
+Germany,MERCEDES-BENZ AMG S65,12,2WD,Gasoline,small car,16
+Germany,MERCEDES-BENZ AMG S65,12,2WD,Gasoline,small car,16
+Germany,MERCEDES-BENZ AMG SL63,8,2WD,Gasoline,small car,18
+Germany,MERCEDES-BENZ C300,4,2WD,Gasoline,small car,24
+Germany,MERCEDES-BENZ C300,4,2WD,Gasoline,small car,25
+Germany,MERCEDES-BENZ C300,4,2WD,Gasoline,small car,27
+Germany,MERCEDES-BENZ C300 4Matic,4,4WD,Gasoline,small car,24
+Germany,MERCEDES-BENZ C300 4Matic,4,4WD,Gasoline,small car,25
+Germany,MERCEDES-BENZ C300 4Matic,4,4WD,Gasoline,small car,26
+Germany,MERCEDES-BENZ CLA250,4,2WD,Gasoline,small car,29
+Germany,MERCEDES-BENZ CLA250 4Matic,4,4WD,Gasoline,small car,27
+Germany,MERCEDES-BENZ CLS450,6,2WD,Gasoline,small car,26
+Germany,MERCEDES-BENZ CLS450 4Matic,6,4WD,Gasoline,small car,26
+Germany,MERCEDES-BENZ E300,4,2WD,Gasoline,midsize car,25
+Germany,MERCEDES-BENZ E300 4Matic,4,4WD,Gasoline,midsize car,24
+Germany,MERCEDES-BENZ E450,6,2WD,Gasoline,small car,23
+Germany,MERCEDES-BENZ E450 4Matic,6,4WD,Gasoline,midsize car,23
+Germany,MERCEDES-BENZ E450 4Matic,6,4WD,Gasoline,small car,22
+Germany,MERCEDES-BENZ E450 4Matic,6,4WD,Gasoline,station wagon,22
+Germany,MERCEDES-BENZ E450 4Matic Convertible,6,4WD,Gasoline,small car,22
+Germany,MERCEDES-BENZ E450 Convertible,6,2WD,Gasoline,small car,23
+Germany,MERCEDES-BENZ G550,8,4WD,Gasoline,standard SUV,14
+Germany,MERCEDES-BENZ GLA 250,4,2WD,Gasoline,small SUV,27
+Germany,MERCEDES-BENZ GLA250 4Matic,4,4WD,Gasoline,small SUV,26
+Germany,MERCEDES-BENZ GLC 300,4,2WD,Gasoline,small SUV,24
+Germany,MERCEDES-BENZ GLC 300 4Matic,4,4WD,Gasoline,small SUV,23
+Germany,MERCEDES-BENZ GLC 300 4Matic,4,4WD,Gasoline,small SUV,24
+Germany,MERCEDES-BENZ GLE400 4Matic,6,4WD,Gasoline,standard SUV,20
+Germany,MERCEDES-BENZ GLS450 4Matic,6,4WD,Gasoline,standard SUV,18
+Germany,MERCEDES-BENZ GLS550 4Matic,8,4WD,Gasoline,standard SUV,16
+Germany,MERCEDES-BENZ Maybach S650,12,2WD,Gasoline,large car,16
+Germany,MERCEDES-BENZ Metris,4,2WD,Gasoline,special purpose,21
+Germany,MERCEDES-BENZ Metris,4,2WD,Gasoline,special purpose,22
+Germany,MERCEDES-BENZ Metris,4,2WD,Gasoline,special purpose,22
+Germany,MERCEDES-BENZ S450,6,2WD,Gasoline,large car,22
+Germany,MERCEDES-BENZ S450 4Matic,6,4WD,Gasoline,large car,22
+Germany,MERCEDES-BENZ S560,8,2WD,Gasoline,large car,21
+Germany,MERCEDES-BENZ S560,8,2WD,Gasoline,small car,20
+Germany,MERCEDES-BENZ S560 4Matic,8,4WD,Gasoline,large car,21
+Germany,MERCEDES-BENZ S560 4Matic,8,4WD,Gasoline,small car,20
+Germany,MERCEDES-BENZ S560 4Matic Maybach,8,4WD,Gasoline,large car,19
+Germany,MERCEDES-BENZ SL450,6,2WD,Gasoline,small car,23
+Germany,MERCEDES-BENZ SL550,8,2WD,Gasoline,small car,20
+Germany,MERCEDES-BENZ SLC300,4,2WD,Gasoline,small car,27
+Germany,MINI Cooper Clubman,3,2WD,Gasoline,midsize car,28
+Germany,MINI Cooper Clubman,3,2WD,Gasoline,midsize car,27
+Germany,MINI Cooper Clubman All4,3,4WD,Gasoline,midsize car,26
+Germany,MINI Cooper Clubman All4,3,4WD,Gasoline,midsize car,26
+Germany,MINI Cooper Convertible,3,2WD,Gasoline,small car,31
+Germany,MINI Cooper Convertible,3,2WD,Gasoline,small car,30
+Germany,MINI Cooper Countryman,3,2WD,Gasoline,midsize car,28
+Germany,MINI Cooper Countryman,3,2WD,Gasoline,midsize car,27
+Germany,MINI Cooper Countryman All4,3,4WD,Gasoline,midsize car,26
+Germany,MINI Cooper Countryman All4,3,4WD,Gasoline,midsize car,25
+Germany,MINI Cooper Hardtop,3,2WD,Gasoline,small car,31
+Germany,MINI Cooper Hardtop,3,2WD,Gasoline,small car,32
+Germany,MINI Cooper Hardtop,3,2WD,Gasoline,small car,30
+Germany,MINI Cooper S Clubman,4,2WD,Gasoline,midsize car,25
+Germany,MINI Cooper S Clubman,4,2WD,Gasoline,midsize car,27
+Germany,MINI Cooper S Clubman All4,4,4WD,Gasoline,midsize car,24
+Germany,MINI Cooper S Clubman All4,4,4WD,Gasoline,midsize car,26
+Germany,MINI Cooper S Convertible,4,2WD,Gasoline,small car,26
+Germany,MINI Cooper S Convertible,4,2WD,Gasoline,small car,28
+Germany,MINI Cooper S Countryman,4,2WD,Gasoline,midsize car,27
+Germany,MINI Cooper S Countryman All4,4,4WD,Gasoline,midsize car,24
+Germany,MINI Cooper S Countryman All4,4,4WD,Gasoline,midsize car,26
+Germany,MINI Cooper S Hardtop,4,2WD,Gasoline,small car,26
+Germany,MINI Cooper S Hardtop,4,2WD,Gasoline,small car,28
+Germany,MINI JCW Countryman All4,4,4WD,Gasoline,midsize car,24
+Germany,MINI JCW Countryman All4,4,4WD,Gasoline,midsize car,25
+Germany,MINI John Cooper Works Clubman All4,4,4WD,Gasoline,midsize car,24
+Germany,MINI John Cooper Works Clubman All4,4,4WD,Gasoline,midsize car,26
+Germany,MINI John Cooper Works Convertible,4,2WD,Gasoline,small car,25
+Germany,MINI John Cooper Works Convertible,4,2WD,Gasoline,small car,28
+Germany,MINI John Cooper Works Hardtop,4,2WD,Gasoline,small car,26
+Germany,MINI John Cooper Works Hardtop,4,2WD,Gasoline,small car,28
+Japan,MITSUBISHI Eclipse Cross,4,2WD,Gasoline,small SUV,26
+Japan,MITSUBISHI Eclipse Cross,4,4WD,Gasoline,small SUV,25
+Japan,MITSUBISHI Eclipse Cross ES,4,2WD,Gasoline,small SUV,27
+Japan,MITSUBISHI Eclipse Cross ES,4,4WD,Gasoline,small SUV,26
+Japan,MITSUBISHI Mirage,3,2WD,Gasoline,small car,39
+Japan,MITSUBISHI Mirage,3,2WD,Gasoline,small car,36
+Japan,MITSUBISHI Mirage G4,3,2WD,Gasoline,small car,37
+Japan,MITSUBISHI Mirage G4,3,2WD,Gasoline,small car,35
+Japan,MITSUBISHI Outlander,4,2WD,Gasoline,small SUV,27
+Japan,MITSUBISHI Outlander,4,4WD,Gasoline,small SUV,26
+Japan,MITSUBISHI Outlander,6,4WD,Gasoline,small SUV,22
+Japan,MITSUBISHI Outlander Sport,4,2WD,Gasoline,small SUV,25
+Japan,MITSUBISHI Outlander Sport,4,2WD,Gasoline,small SUV,27
+Japan,MITSUBISHI Outlander Sport,4,4WD,Gasoline,small SUV,26
+Japan,MITSUBISHI Outlander Sport,4,2WD,Gasoline,small SUV,25
+Japan,MITSUBISHI Outlander Sport,4,4WD,Gasoline,small SUV,25
+Japan,NISSAN 370Z,6,2WD,Gasoline,small car,20
+Japan,NISSAN 370Z,6,2WD,Gasoline,small car,22
+Japan,NISSAN 370Z Roadster,6,2WD,Gasoline,small car,21
+Japan,NISSAN Altima,4,2WD,Gasoline,midsize car,32
+Japan,NISSAN Altima,4,4WD,Gasoline,midsize car,30
+Japan,NISSAN Altima SR/Platinum,4,2WD,Gasoline,midsize car,29
+Japan,NISSAN Altima SR/Platinum,4,2WD,Gasoline,midsize car,31
+Japan,NISSAN Altima SR/Platinum,4,4WD,Gasoline,midsize car,29
+Japan,NISSAN Armada,8,2WD,Gasoline,standard SUV,16
+Japan,NISSAN Armada,8,4WD,Gasoline,standard SUV,15
+Japan,NISSAN Frontier,4,2WD,Gasoline,pickup,19
+Japan,NISSAN Frontier,4,2WD,Gasoline,pickup,21
+Japan,NISSAN Frontier,6,2WD,Gasoline,pickup,19
+Japan,NISSAN Frontier,6,4WD,Gasoline,pickup,17
+Japan,NISSAN Frontier,6,2WD,Gasoline,pickup,19
+Japan,NISSAN Frontier,6,4WD,Gasoline,pickup,18
+Japan,NISSAN Leaf,N/A,2WD,Electricity,midsize car,112
+Japan,NISSAN NV200,4,2WD,Gasoline,special purpose,25
+Japan,NISSAN NV200,4,2WD,Gasoline,special purpose,24
+Japan,NISSAN Pathfinder,6,2WD,Gasoline,small SUV,23
+Japan,NISSAN Pathfinder,6,4WD,Gasoline,small SUV,22
+Japan,NISSAN Pathfinder 4WD Platinum,6,4WD,Gasoline,small SUV,21
+Japan,NISSAN Rogue,4,2WD,Gasoline,small SUV,29
+Japan,NISSAN Rogue,4,4WD,Gasoline,small SUV,27
+Japan,NISSAN Rogue Hybrid,4,2WD,Gasoline,small SUV,34
+Japan,NISSAN Rogue Hybrid,4,4WD,Gasoline,small SUV,33
+Japan,NISSAN Sentra,4,2WD,Gasoline,midsize car,29
+Japan,NISSAN Sentra,4,2WD,Gasoline,midsize car,32
+Japan,NISSAN Sentra,4,2WD,Gasoline,midsize car,30
+Japan,NISSAN Sentra Nismo,4,2WD,Gasoline,midsize car,27
+Japan,NISSAN Sentra Nismo,4,2WD,Gasoline,midsize car,27
+Japan,NISSAN Titan,8,2WD,Gasoline,pickup,18
+Japan,NISSAN Titan,8,4WD,Gasoline,pickup,18
+Japan,NISSAN Titan Pro-4X,8,4WD,Gasoline,pickup,17
+Japan,NISSAN Versa,4,2WD,Gasoline,small car,34
+Japan,NISSAN Versa,4,2WD,Gasoline,small car,34
+Japan,NISSAN Versa,4,2WD,Gasoline,small car,30
+Germany,PORSCHE 911 Carrera,6,2WD,Gasoline,small car,25
+Germany,PORSCHE 911 Carrera,6,2WD,Gasoline,small car,23
+Germany,PORSCHE 911 Carrera 4,6,4WD,Gasoline,small car,24
+Germany,PORSCHE 911 Carrera 4,6,4WD,Gasoline,small car,23
+Germany,PORSCHE 911 Carrera 4 Cabriolet,6,4WD,Gasoline,small car,24
+Germany,PORSCHE 911 Carrera 4 Cabriolet,6,4WD,Gasoline,small car,22
+Germany,PORSCHE 911 Carrera 4 GTS,6,4WD,Gasoline,small car,22
+Germany,PORSCHE 911 Carrera 4 GTS,6,4WD,Gasoline,small car,21
+Germany,PORSCHE 911 Carrera 4 GTS Cabriolet,6,4WD,Gasoline,small car,22
+Germany,PORSCHE 911 Carrera 4 GTS Cabriolet,6,4WD,Gasoline,small car,21
+Germany,PORSCHE 911 Carrera 4S,6,4WD,Gasoline,small car,24
+Germany,PORSCHE 911 Carrera 4S,6,4WD,Gasoline,small car,23
+Germany,PORSCHE 911 Carrera 4S Cabriolet,6,4WD,Gasoline,small car,24
+Germany,PORSCHE 911 Carrera 4S Cabriolet,6,4WD,Gasoline,small car,22
+Germany,PORSCHE 911 Carrera Cabriolet,6,2WD,Gasoline,small car,24
+Germany,PORSCHE 911 Carrera Cabriolet,6,2WD,Gasoline,small car,23
+Germany,PORSCHE 911 Carrera GTS,6,2WD,Gasoline,small car,23
+Germany,PORSCHE 911 Carrera GTS,6,2WD,Gasoline,small car,21
+Germany,PORSCHE 911 Carrera GTS Cabriolet,6,2WD,Gasoline,small car,22
+Germany,PORSCHE 911 Carrera GTS Cabriolet,6,2WD,Gasoline,small car,21
+Germany,PORSCHE 911 Carrera S,6,2WD,Gasoline,small car,24
+Germany,PORSCHE 911 Carrera S,6,2WD,Gasoline,small car,23
+Germany,PORSCHE 911 Carrera S Cabriolet,6,2WD,Gasoline,small car,24
+Germany,PORSCHE 911 Carrera S Cabriolet,6,2WD,Gasoline,small car,23
+Germany,PORSCHE 911 Carrera T,6,2WD,Gasoline,small car,22
+Germany,PORSCHE 911 Carrera T,6,2WD,Gasoline,small car,19
+Germany,PORSCHE 911 GT2 RS,6,2WD,Gasoline,small car,17
+Germany,PORSCHE 911 GT3,6,2WD,Gasoline,small car,17
+Germany,PORSCHE 911 GT3,6,2WD,Gasoline,small car,16
+Germany,PORSCHE 911 GT3 RS,6,2WD,Gasoline,small car,16
+Germany,PORSCHE 911 GT3 Touring,6,2WD,Gasoline,small car,17
+Germany,PORSCHE 911 Targa 4,6,4WD,Gasoline,small car,24
+Germany,PORSCHE 911 Targa 4,6,4WD,Gasoline,small car,22
+Germany,PORSCHE 911 Targa 4 GTS,6,4WD,Gasoline,small car,22
+Germany,PORSCHE 911 Targa 4 GTS,6,4WD,Gasoline,small car,21
+Germany,PORSCHE 911 Targa 4S,6,4WD,Gasoline,small car,24
+Germany,PORSCHE 911 Targa 4S,6,4WD,Gasoline,small car,22
+Germany,PORSCHE 911 Turbo,6,4WD,Gasoline,small car,21
+Germany,PORSCHE 911 Turbo Cabriolet,6,4WD,Gasoline,small car,21
+Germany,PORSCHE 911 Turbo S,6,4WD,Gasoline,small car,21
+Germany,PORSCHE 911 Turbo S Cabriolet,6,4WD,Gasoline,small car,21
+Germany,PORSCHE Boxster,4,2WD,Gasoline,small car,25
+Germany,PORSCHE Boxster,4,2WD,Gasoline,small car,24
+Germany,PORSCHE Boxster GTS,4,2WD,Gasoline,small car,22
+Germany,PORSCHE Boxster GTS,4,2WD,Gasoline,small car,21
+Germany,PORSCHE Boxster S,4,2WD,Gasoline,small car,24
+Germany,PORSCHE Boxster S,4,2WD,Gasoline,small car,22
+Germany,PORSCHE Cayman,4,2WD,Gasoline,small car,25
+Germany,PORSCHE Cayman,4,2WD,Gasoline,small car,24
+Germany,PORSCHE Cayman GTS,4,2WD,Gasoline,small car,22
+Germany,PORSCHE Cayman GTS,4,2WD,Gasoline,small car,21
+Germany,PORSCHE Cayman S,4,2WD,Gasoline,small car,24
+Germany,PORSCHE Cayman S,4,2WD,Gasoline,small car,22
+US,RAM 1500,6,2WD,Gasoline,pickup,22
+US,RAM 1500,6,4WD,Gasoline,pickup,21
+US,RAM 1500,8,2WD,Gasoline,pickup,17
+US,RAM 1500,8,2WD,Gasoline,pickup,19
+US,RAM 1500,8,4WD,Gasoline,pickup,17
+US,RAM 1500,8,4WD,Gasoline,pickup,19
+US,RAM 1500 Classic,8,2WD,Gasoline,pickup,17
+US,RAM 1500 Classic,8,4WD,Gasoline,pickup,17
+US,RAM Promaster City,4,2WD,Gasoline,special purpose,24
+US,ROLLS-ROYCE Cullinan,12,4WD,Gasoline,station wagon,14
+UK,ROLLS-ROYCE Dawn,12,2WD,Gasoline,small car,14
+UK,ROLLS-ROYCE Ghost,12,2WD,Gasoline,large car,14
+UK,ROLLS-ROYCE Ghost EWB,12,2WD,Gasoline,large car,14
+UK,ROLLS-ROYCE Phantom,12,2WD,Gasoline,large car,14
+UK,ROLLS-ROYCE Phantom EWB,12,2WD,Gasoline,large car,14
+UK,ROLLS-ROYCE Wraith,12,2WD,Gasoline,midsize car,14
+US,ROUSH F150,8,2WD,Gasoline,pickup,12
+US,ROUSH F150,8,4WD,Gasoline,pickup,12
+US,ROUSH Stage 3 Mustang,8,2WD,Gasoline,small car,15
+US,ROUSH Stage 3 Mustang,8,2WD,Gasoline,small car,15
+Japan,SUBARU Ascent,4,4WD,Gasoline,standard SUV,23
+Japan,SUBARU Ascent Limited/Touring,4,4WD,Gasoline,standard SUV,22
+Japan,SUBARU BRZ,4,2WD,Gasoline,small car,24
+Japan,SUBARU BRZ,4,2WD,Gasoline,small car,27
+Japan,SUBARU Crosstrek,4,4WD,Gasoline,small SUV,25
+Japan,SUBARU Crosstrek,4,4WD,Gasoline,small SUV,25
+Japan,SUBARU Crosstrek,4,4WD,Gasoline,small SUV,29
+Japan,SUBARU Crosstrek,4,4WD,Gasoline,small SUV,29
+Japan,SUBARU Forester,4,4WD,Gasoline,small SUV,29
+Japan,SUBARU Forester,4,4WD,Gasoline,small SUV,29
+Japan,SUBARU Impreza,4,4WD,Gasoline,midsize car,27
+Japan,SUBARU Impreza,4,4WD,Gasoline,station wagon,26
+Japan,SUBARU Impreza,4,4WD,Gasoline,midsize car,27
+Japan,SUBARU Impreza,4,4WD,Gasoline,station wagon,26
+Japan,SUBARU Impreza,4,4WD,Gasoline,midsize car,32
+Japan,SUBARU Impreza,4,4WD,Gasoline,station wagon,31
+Japan,SUBARU Impreza,4,4WD,Gasoline,midsize car,32
+Japan,SUBARU Impreza,4,4WD,Gasoline,station wagon,31
+Japan,SUBARU Impreza 4-Door Sport,4,4WD,Gasoline,midsize car,26
+Japan,SUBARU Impreza 4-Door Sport,4,4WD,Gasoline,midsize car,26
+Japan,SUBARU Impreza 4-Door Sport,4,4WD,Gasoline,midsize car,30
+Japan,SUBARU Impreza 4-Door Sport,4,4WD,Gasoline,midsize car,30
+Japan,SUBARU Impreza 5-Door Sport,4,4WD,Gasoline,station wagon,25
+Japan,SUBARU Impreza 5-Door Sport,4,4WD,Gasoline,station wagon,25
+Japan,SUBARU Impreza 5-Door Sport,4,4WD,Gasoline,station wagon,30
+Japan,SUBARU Impreza 5-Door Sport,4,4WD,Gasoline,station wagon,30
+Japan,SUBARU Legacy,4,4WD,Gasoline,midsize car,29
+Japan,SUBARU Legacy,4,4WD,Gasoline,midsize car,29
+Japan,SUBARU Legacy,6,4WD,Gasoline,midsize car,23
+Japan,SUBARU Outback AWD,4,4WD,Gasoline,small SUV,28
+Japan,SUBARU Outback AWD,4,4WD,Gasoline,small SUV,28
+Japan,SUBARU Outback AWD,6,4WD,Gasoline,small SUV,22
+Japan,SUBARU WRX,4,4WD,Gasoline,small car,23
+Japan,SUBARU WRX,4,4WD,Gasoline,small car,21
+Japan,SUBARU WRX,4,4WD,Gasoline,small car,19
+Japan,TOYOTA 4Runner,6,2WD,Gasoline,standard SUV,18
+Japan,TOYOTA 4Runner,6,4WD,Gasoline,standard SUV,18
+Japan,TOYOTA 86,4,2WD,Gasoline,small car,24
+Japan,TOYOTA 86,4,2WD,Gasoline,small car,27
+Japan,TOYOTA Avalon,6,2WD,Gasoline,midsize car,25
+Japan,TOYOTA Avalon Hybrid,4,2WD,Gasoline,midsize car,43
+Japan,TOYOTA Avalon Hybrid XLE,4,2WD,Gasoline,midsize car,44
+Japan,TOYOTA Avalon XLE,6,2WD,Gasoline,midsize car,26
+Japan,TOYOTA C-HR,4,2WD,Gasoline,small car,29
+Japan,TOYOTA Camry,4,2WD,Gasoline,midsize car,34
+Japan,TOYOTA Camry,6,2WD,Gasoline,midsize car,26
+Japan,TOYOTA Camry Hybrid LE,4,2WD,Gasoline,midsize car,52
+Japan,TOYOTA Camry Hybrid XLE/SE,4,2WD,Gasoline,midsize car,46
+Japan,TOYOTA Camry LE/SE,4,2WD,Gasoline,midsize car,32
+Japan,TOYOTA Camry XLE/XSE,4,2WD,Gasoline,midsize car,32
+Japan,TOYOTA Camry XSE,6,2WD,Gasoline,midsize car,26
+Japan,TOYOTA Corolla,4,2WD,Gasoline,midsize car,32
+Japan,TOYOTA Corolla,4,2WD,Gasoline,midsize car,30
+Japan,TOYOTA Corolla,4,2WD,Gasoline,midsize car,31
+Japan,TOYOTA Corolla Hatchback,4,2WD,Gasoline,small car,31
+Japan,TOYOTA Corolla Hatchback,4,2WD,Gasoline,small car,36
+Japan,TOYOTA Corolla Hatchback XSE,4,2WD,Gasoline,small car,33
+Japan,TOYOTA Corolla LE Eco,4,2WD,Gasoline,midsize car,33
+Japan,TOYOTA Corolla LE Eco,4,2WD,Gasoline,midsize car,34
+Japan,TOYOTA Highlander,4,2WD,Gasoline,small SUV,22
+Japan,TOYOTA Highlander,6,2WD,Gasoline,small SUV,23
+Japan,TOYOTA Highlander,6,4WD,Gasoline,standard SUV,22
+Japan,TOYOTA Highlander,6,4WD,Gasoline,standard SUV,22
+Japan,TOYOTA Highlander AWD LE,6,4WD,Gasoline,standard SUV,23
+Japan,TOYOTA Highlander Hybrid,6,4WD,Gasoline,standard SUV,28
+Japan,TOYOTA Highlander Hybrid LE Plus,6,4WD,Gasoline,standard SUV,29
+Japan,TOYOTA Highlander LE/XLE/SE/LTD,6,2WD,Gasoline,small SUV,23
+Japan,TOYOTA Land Cruiser,8,4WD,Gasoline,standard SUV,15
+Japan,TOYOTA Mirai,N/A,2WD,Hydrogen,small car,67
+Japan,TOYOTA Prius c,4,2WD,Gasoline,small car,46
+Japan,TOYOTA Sequoia,8,2WD,Gasoline,standard SUV,15
+Japan,TOYOTA Sequoia,8,4WD,Gasoline,standard SUV,14
+Japan,TOYOTA Sienna,6,2WD,Gasoline,minivan,22
+Japan,TOYOTA Sienna,6,4WD,Gasoline,minivan,20
+Japan,TOYOTA Tacoma,4,2WD,Gasoline,pickup,21
+Japan,TOYOTA Tacoma,4,4WD,Gasoline,pickup,20
+Japan,TOYOTA Tacoma,6,4WD,Gasoline,pickup,18
+Japan,TOYOTA Tacoma,6,4WD,Gasoline,pickup,18
+Japan,TOYOTA Tacoma,6,2WD,Gasoline,pickup,21
+Japan,TOYOTA Tacoma,6,4WD,Gasoline,pickup,20
+Japan,TOYOTA Tundra,8,2WD,Gasoline,pickup,16
+Japan,TOYOTA Tundra,8,4WD,Gasoline,pickup,16
+Japan,TOYOTA Tundra,8,2WD,Gasoline,pickup,15
+Japan,TOYOTA Tundra,8,4WD,Gasoline,pickup,14
+Japan,TOYOTA Yaris,4,2WD,Gasoline,small car,34
+Japan,TOYOTA Yaris,4,2WD,Gasoline,small car,35
+Germany,VOLKSWAGEN Beetle,4,2WD,Gasoline,small car,29
+Germany,VOLKSWAGEN Beetle Convertible,4,2WD,Gasoline,small car,29
+Germany,VOLKSWAGEN GTI,4,2WD,Gasoline,small car,27
+Germany,VOLKSWAGEN Golf,4,2WD,Gasoline,small car,32
+Germany,VOLKSWAGEN Golf,4,2WD,Gasoline,small car,32
+Germany,VOLKSWAGEN Golf SportWagen,4,2WD,Gasoline,station wagon,32
+Germany,VOLKSWAGEN Golf SportWagen,4,2WD,Gasoline,station wagon,31
+Germany,VOLKSWAGEN Jetta,4,2WD,Gasoline,small car,34
+Germany,VOLKSWAGEN Jetta,4,2WD,Gasoline,small car,34
+Germany,VOLKSWAGEN Jetta,4,2WD,Gasoline,small car,34
+Germany,VOLKSWAGEN Passat,4,2WD,Gasoline,midsize car,29
+Germany,VOLKSWAGEN Tiguan,4,2WD,Gasoline,small SUV,25
+Germany,VOLKSWAGEN Tiguan 4Motion,4,4WD,Gasoline,small SUV,24
+Sweden,VOLKSWAGEN Tiguan 4Motion,4,4WD,Gasoline,small SUV,24
+Sweden,VOLKSWAGEN e-Golf,N/A,2WD,Electricity,small car,119
+Sweden,VOLVO Atlas,4,2WD,Gasoline,small SUV,24
+Sweden,VOLVO Atlas,6,2WD,Gasoline,small SUV,19
+Sweden,VOLVO Atlas 4Motion,6,4WD,Gasoline,standard SUV,19
+Sweden,VOLVO S60,4,2WD,Gasoline,small car,28
+Sweden,VOLVO S60,4,4WD,Gasoline,small car,25
+Sweden,VOLVO S90,4,2WD,Gasoline,midsize car,27
+Sweden,VOLVO S90,4,4WD,Gasoline,midsize car,25
+Sweden,VOLVO S90,4,4WD,Gasoline,midsize car,26
+Sweden,VOLVO V60,4,2WD,Gasoline,station wagon,28
+Sweden,VOLVO V60,4,4WD,Gasoline,station wagon,25
+Sweden,VOLVO V60 CC,4,4WD,Gasoline,station wagon,25
+Sweden,VOLVO V90,4,2WD,Gasoline,station wagon,27
+Sweden,VOLVO V90,4,4WD,Gasoline,station wagon,25
+Sweden,VOLVO V90 CC,4,4WD,Gasoline,station wagon,24
+Sweden,VOLVO V90 CC,4,4WD,Gasoline,station wagon,25
+Sweden,VOLVO XC40,4,2WD,Gasoline,small SUV,27
+Sweden,VOLVO XC40,4,4WD,Gasoline,small SUV,26
+Sweden,VOLVO XC60,4,2WD,Gasoline,small SUV,24
+Sweden,VOLVO XC60,4,4WD,Gasoline,small SUV,22
+Sweden,VOLVO XC60,4,4WD,Gasoline,small SUV,23
+Sweden,VOLVO XC90,4,2WD,Gasoline,standard SUV,24
+Sweden,VOLVO XC90,4,4WD,Gasoline,standard SUV,22
+Sweden,VOLVO XC90,4,4WD,Gasoline,standard SUV,23
